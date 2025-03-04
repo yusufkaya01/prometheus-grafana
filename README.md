@@ -23,7 +23,7 @@ This repository automates the setup of Prometheus, Grafana, and Node Exporter fo
 ## Setup Instructions:
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/prometheus-grafana.git
+    git clone https://github.com/yusufkaya01/prometheus-grafana.git
     cd prometheus-grafana
     ```
 2. Run the setup script:
@@ -55,8 +55,8 @@ This setup uses Docker Compose to manage the containers. Ensure your version sup
 Feel free to open issues or submit pull requests to improve this setup!
 
 ## License:
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## About:
-- GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-- LinkedIn: [https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- GitHub: [https://github.com/yusufkaya01](https://github.com/yusufkaya01)
+- LinkedIn: [https://www.linkedin.com/in/yusufkaya01](https://www.linkedin.com/in/yusufkaya01)
