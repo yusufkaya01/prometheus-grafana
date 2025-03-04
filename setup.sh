@@ -25,7 +25,7 @@ echo -e "\033[1;31m
 |  Grafana         |
 +------------------+
 \033[1;34m
-Version: 1.0.0\033[0m
+Version: 1.0.1\033[0m
 
 Welcome to seamless installation of Prometheus and Grafana setup! 🎉
 *with node exporter for sure :D 
